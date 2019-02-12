@@ -1,0 +1,20 @@
+{
+  "name": "tracalorie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-ahmed-muhamed-2:ahmed-muhamed-2/tracalorie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "home": "https://ahmed-muhamed-2.github.io/tracalorie/",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
